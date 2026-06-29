@@ -24,7 +24,7 @@ The objective of this project is to improve my AutoCAD drafting skills and under
 ## 📂 Project Contents
 
 - `House 2.dwg` – Main AutoCAD drawing file.
-- `2DHouse_Plan.pdf` *(Optional)* – PDF version of the drawing for easy viewing.
+- `2DHouse_Plan.pdf` – PDF version of the drawing for easy viewing.
 - `README.md` – Project documentation.
 
 ---
